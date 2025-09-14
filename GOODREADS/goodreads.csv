@@ -1,31 +1,21 @@
-title,publisher_name,rating,publication_date,no_of_reviews
-Black Flame,Gretchen Felker-Martin,3.78,"First published August 5, 2025",241 reviews
-Flashout,Alexis Soloski,3.59,"First published August 5, 2025",40 reviews
-The Art of Vanishing,Morgan Pager,3.23,"First published July 1, 2025",405 reviews
-Bring the House Down,Charlotte Runcie,3.60,"First published July 8, 2025",558 reviews
-"If You Love It, Let It Kill You",Hannah Pittard,3.49,"First published July 15, 2025",190 reviews
-"Oh No, Ojó!",Alaba Onajin,3.57,"First published July 15, 2025",6 reviews
-An Inside Job,Daniel Silva,4.51,"First published July 15, 2025",759 reviews
-Horse,Geraldine Brooks,4.25,"First published June 14, 2022","18,345 reviews"
-Cat Kid Comic Club,Dav Pilkey,3.97,"First published December 1, 2020",622 reviews
-The Stolen Queen,Fiona Davis,3.93,"First published January 7, 2025","5,006 reviews"
-Blessings and Disasters: A Story of Alabama,Alexis Okeowo,3.88,"First published August 5, 2025",43 reviews
-Hotshot: A Life on Fire,River Selby,3.81,"First published August 12, 2025",67 reviews
-"The Undiscovered Country: Triumph, Tragedy, and the Shaping of the American West",Paul Andrew Hutton,4.37,"First published August 5, 2025",19 reviews
-We Should All Be Birds: A Memoir,Brian Buckbee,3.67,"First published August 1, 2025",41 reviews
-Coming Up Short: A Memoir of My America,Robert B. Reich,4.56,"First published August 5, 2025",67 reviews
-Master of Rome: A Life of Julius Caesar,David Stone Potter,4.33,"First published August 6, 2025",2 reviews
-Clodia of Rome: Champion of the Republic,Douglas Boin,3.93,"First published August 12, 2025",8 reviews
-The Martians: The True Story of an Alien Craze that Captured Turn-of-the-Century America,David Baron,4.01,"First published August 26, 2025",28 reviews
-Life Is Fighting,Kevin Robert Kesar,4.26,"First published August 5, 2025",26 reviews
-Knocking on Windows: A Memoir,Jeannine Atkins,4.30,"First published August 5, 2025",22 reviews
-The Let Them Theory,Mel Robbins,4.09,"First published December 24, 2024","17,899 reviews"
-The Creative Act: A Way of Being,Rick Rubin,3.97,N/A,"7,266 reviews"
-Abundance,Ezra Klein,4.02,"First published March 18, 2025","3,485 reviews"
-Think Again: The Power of Knowing What You Don't Know,Adam M. Grant,4.13,N/A,"8,998 reviews"
-"Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering",Malcolm Gladwell,4.03,N/A,"4,211 reviews"
-Four Thousand Weeks: Time Management for Mortals,Oliver Burkeman,4.18,"First published August 10, 2021","11,870 reviews"
-The Almanack of Naval Ravikant: A Guide to Wealth and Happiness,Eric Jorgenson,4.39,"First published August 15, 2020","5,262 reviews"
-N/A,Arnold Schwarzenegger,4.06,"First published October 10, 2023","3,087 reviews"
-Stolen Focus: Why You Can't Pay Attention— and How to Think Deeply Again,Johann Hari,4.22,N/A,"8,588 reviews"
-No More Tears: The Dark Secrets of Johnson & Johnson,Gardiner Harris,4.18,"First published April 8, 2025","1,297 reviews"
+title,publisher_name,rating,publication_date,no_of_reviews,genre
+Black Flame,Gretchen Felker-Martin,3.78,"First published August 5, 2025",243 reviews,Art
+Flashout,Alexis Soloski,3.59,"First published August 5, 2025",40 reviews,Art
+The Art of Vanishing,Morgan Pager,3.23,"First published July 1, 2025",405 reviews,Art
+Bring the House Down,Charlotte Runcie,3.60,"First published July 8, 2025",559 reviews,Art
+"If You Love It, Let It Kill You",Hannah Pittard,3.49,"First published July 15, 2025",190 reviews,Art
+"Oh No, Ojó!",Alaba Onajin,3.57,"First published July 15, 2025",6 reviews,Art
+An Inside Job,Daniel Silva,4.51,"First published July 15, 2025",759 reviews,Art
+Horse,Geraldine Brooks,4.25,"First published June 14, 2022","18,346 reviews",Art
+Cat Kid Comic Club,Dav Pilkey,3.97,"First published December 1, 2020",622 reviews,Art
+The Stolen Queen,Fiona Davis,3.93,"First published January 7, 2025","5,006 reviews",Art
+Blessings and Disasters: A Story of Alabama,Alexis Okeowo,3.88,"First published August 5, 2025",43 reviews,Biography
+Hotshot: A Life on Fire,River Selby,3.81,"First published August 12, 2025",67 reviews,Biography
+"The Undiscovered Country: Triumph, Tragedy, and the Shaping of the American West",Paul Andrew Hutton,4.37,"First published August 5, 2025",19 reviews,Biography
+We Should All Be Birds: A Memoir,Brian Buckbee,3.67,"First published August 1, 2025",41 reviews,Biography
+Coming Up Short: A Memoir of My America,Robert B. Reich,4.56,"First published August 5, 2025",68 reviews,Biography
+Master of Rome: A Life of Julius Caesar,David Stone Potter,4.33,"First published August 6, 2025",2 reviews,Biography
+Clodia of Rome: Champion of the Republic,Douglas Boin,3.93,"First published August 12, 2025",8 reviews,Biography
+The Martians: The True Story of an Alien Craze that Captured Turn-of-the-Century America,David Baron,4.01,"First published August 26, 2025",28 reviews,Biography
+Life Is Fighting,Kevin Robert Kesar,4.26,"First published August 5, 2025",26 reviews,Biography
+Knocking on Windows: A Memoir,Jeannine Atkins,4.30,"First published August 5, 2025",22 reviews,Biography
